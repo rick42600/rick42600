@@ -30,5 +30,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/rick42600/rick42600/blob/main/image/uipathicon.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
 ![doyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick42600&theme=panda&show_icons=true)
+
+---
+
+### :writing_hand: Blog Posts :
  
