@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    good day!
+    Good day!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
