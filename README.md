@@ -27,9 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
-  
+  <img src="https://github.com/rick42600/rick42600/blob/main/image/uipathicon.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ![doyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick42600&theme=panda&show_icons=true)
