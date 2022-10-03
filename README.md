@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [doyoon426@gmail.com](mailto:doyoon426@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- :mailbox:How to reach me: <a href="mailto:doyoon426@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
