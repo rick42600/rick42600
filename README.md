@@ -3,11 +3,14 @@
     Good day!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="500" height="400"/><br>
   <img src="https://komarev.com/ghpvc/?username=rick42600&style=flat-square&color=blue" alt="viewcounter"/>
+  
 </div>
  
 ---
@@ -17,8 +20,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: <a href="mailto:doyoon426@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
----
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyoon426@gmail.com)](mailto:doyoon426@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricky-k-645098240)](www.linkedin.com/in/ricky-k-645098240)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
