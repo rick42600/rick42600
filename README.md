@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyoon426@gmail.com)](mailto:doyoon426@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ricky-k-645098240)](www.linkedin.com/in/ricky-k-645098240)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ricky-k-645098240)](http://www.linkedin.com/in/ricky-k-645098240)
 
 
 ### :hammer_and_wrench: Languages and Tools :
