@@ -15,8 +15,8 @@
  
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Korea.
-- :telescope: I’m studing frontend ,backend for building web and contributing on RPA 
+I am a RPA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Korea.
+- :telescope: I’m studing RPA and frontend ,backend for building web 
 
 - :zap: In my free time, I read tech articles.
 
